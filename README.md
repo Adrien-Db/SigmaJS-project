@@ -1,5 +1,5 @@
 # SigmaJS-project
-Using a Json file, allows to display the corresponding graph with few features.
+Using a Json file allows displaying the corresponding graph with some functionality.
 
 
 ## Project setup
